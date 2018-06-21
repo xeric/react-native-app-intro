@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fuyaode/react-native-app-intro.git"
+    "url": "git+https://github.com/xeric/react-native-app-intro.git"
   },
   "keywords": [
     "swiper",
@@ -28,6 +28,6 @@
   "homepage": "https://github.com/fuyaode/react-native-app-intro#readme",
   "dependencies": {
     "assign-deep": "^0.4.5",
-    "react-native-swiper": "git+https://github.com/FuYaoDe/react-native-swiper.git"
+    "react-native-swiper": "git+https://github.com/xeric/react-native-swiper.git"
   }
 }
